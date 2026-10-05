@@ -1,0 +1,10 @@
+web/node_modules/
+web/dist/
+third_party/
+*.pro.user
+Makefile
+moc_*
+*.o
+CanvasViewer
+qtwebengine_resources*.pak
+qtwebengine_locales
