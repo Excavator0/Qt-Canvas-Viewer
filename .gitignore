@@ -8,3 +8,4 @@ moc_*
 CanvasViewer
 qtwebengine_resources*.pak
 qtwebengine_locales
+qtwebengine_devtools_resources.pak
